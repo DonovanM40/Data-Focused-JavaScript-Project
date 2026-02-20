@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>
-            Address Book
+        <title> 
+            address book
         </title>
     </head>
-    
+
     <body>
         <table border="1">
             <tr>
@@ -14,14 +14,14 @@
                 <th>Email</th>
             </tr>
             <tr>
-                <td>Karel</td>
-                <td>123-4567</td>
-                <td>karel@codehs.com</td>
+                <th>Karel</th>
+                <th>123-4567</th>
+                <th>karel@codehs.com</th>
             </tr>
             <tr>
-                <td>Jenny</td>
-                <td>867-5309</td>
-                <td>jenny@gmail.com</td>
+                <th>Jenny</th>
+                <th>867-5309</th>
+                <th>Jenny@gmail.com</th>
             </tr>
             <tr>
                 <td>Soulja Boy</td>
